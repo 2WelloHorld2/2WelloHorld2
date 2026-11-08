@@ -20,13 +20,18 @@ My interests lie at the intersection of mathematics, programming, and data-drive
 - Data preprocessing, exploratory analysis, and model evaluation
 - SQL and analytical workflows
 
-### 🗂️ Projects
+### 📊 Selected data projects
 
-I'm preparing a selection of coursework and personal projects. Each repository will explain the problem, methodology, results, and lessons learned.
+The following projects are available in the [HendlessWizzard](https://github.com/HendlessWizzard) repository collection. Links point to the original repositories so the source and commit history remain transparent.
 
-<!-- Add links below when the projects have been published.
-- [Project name](https://github.com/2WelloHorld2/project-name) — brief description and result
--->
+| Project | Focus | Methods |
+| --- | --- | --- |
+| [🛴 Scooter rental analytics](https://github.com/HendlessWizzard/electric_scooters_research) | Subscription behavior, revenue and marketing hypotheses | EDA, statistical testing, pandas, SciPy |
+| [🎮 Video game market analysis](https://github.com/HendlessWizzard/computer_games_analis) | Sales trends across platforms, genres and regions | Exploratory analysis, visualization, hypothesis tests |
+| [🏠 Real estate price drivers](https://github.com/HendlessWizzard/real_estate_patterns) | Understanding factors affecting apartment prices | Data cleaning, feature engineering, correlation analysis |
+| [📉 Customer churn prediction](https://github.com/HendlessWizzard/Preventing_Customer_Churn) | Predicting attrition and identifying retention opportunities | Classification, model evaluation, feature importance |
+
+> These links reference the original `HendlessWizzard` repositories. They are not yet separate repositories under `2WelloHorld2`.
 
 ### 🎯 Current goal
 
